@@ -4,6 +4,8 @@ Welcome to try!
 
 I build it from Iosevka!
 
+![code](code.png "字体示例")
+
 ## For WINDOWS
 if you are windows user:
 you can install the fonts, and use it in vscode `settins.json` like:
